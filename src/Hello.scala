@@ -1,3 +1,7 @@
 object Hello extends App {
-  println("开始了")
+  val a = Person("yizhou", 25);
+//  val b = Student("xixi", 24, "NYU");
+
+  println(a)
+//  println(b)
 }
