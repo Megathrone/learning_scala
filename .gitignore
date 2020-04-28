@@ -1,2 +1,5 @@
 *.class
 *.log
+.idea/
+.Ds_Store
+*.iml
