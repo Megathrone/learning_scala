@@ -10,7 +10,7 @@ object UsingFile extends App {
 
   source.getLines.foreach {
     println
-    
+
   }
 
 
